@@ -1,2 +1,2 @@
 # GraduationProject
-the respsotory was build for the graduation project
+the reposistory was build for the graduation project
